@@ -1,18 +1,12 @@
 ## Deep Reinforcement Learning Algorithms
 
-Here you can find several projects dedicated to the Deep Reinforcement Learning methods.     
-The projects are deployed in the matrix form: **[env x model]**, where **env** is the environment   
-to be solved, and **model** is the model/algorithm which solves this environment. In some cases,    
-the same environment is resolved by several algorithms. All projects are presented as   
-a **jupyter notebook** containing **training log**.  
-
+Here you can find several projects dedicated to the Deep Reinforcement Learning methods. The projects are deployed in the matrix form: **[env x model]**, where **env** is the environment to be solved, and **model** is the model/algorithm which solves this environment. In some cases, the same environment is resolved by several algorithms. All projects are presented as a **jupyter notebook** containing **training log**.  
+      
 The following environments are supported:  
 
-__AntBulletEnv__,  __BipedalWalker__, __BipedalWalkerHardcore__, __CarRacing__, __CartPole__, __Crawler__, __HalfCheetahBulletEnv__,   
-__HopperBulletEnv__,  __LunarLander__,  __LunarLanderContinuous__,  __Markov Decision 6x6__,  __Minitaur__, __Minitaur with Duck__,      
-__MountainCar__, __MountainCarContinuous__, __Pong__, __Navigation__, __Reacher__,  __Snake__,  __Tennis__, __Waker2DBulletEnv__.   
-
-![](images/all_16_envs.png)
+__AntBulletEnv__,  __BipedalWalker__, __BipedalWalkerHardcore__, __CarRacing__, __CartPole__, __Crawler__, __HalfCheetahBulletEnv__, __HopperBulletEnv__,  __LunarLander__,  __LunarLanderContinuous__,  __Markov Decision 6x6__,  __Minitaur__, __Minitaur with Duck__, __MountainCar__, __MountainCarContinuous__, __Pong__, __Navigation__, __Reacher__,  __Snake__,  __Tennis__, __Waker2DBulletEnv__.   
+ 
+ ![](images/all_16_envs.png)
 
 Four environments (__Navigation__,  __Crawler__, __Reacher__,  __Tennis__) are solved in the framework of the   
 [**_Udacity Deep Reinforcement Learning Nanodegree Program_**](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).  
@@ -167,29 +161,5 @@ to be model-free.
    * on _TD3_, see [1](https://arxiv.org/abs/1802.09477), [2](https://spinningup.openai.com/en/latest/algorithms/td3.html), [3](https://stable-baselines.readthedocs.io/en/master/modules/td3.html)    
    * on _SAC_, see [1](https://arxiv.org/abs/1801.01290), [2](https://towardsdatascience.com/soft-actor-critic-demystified-b8427df61665), [3](https://stable-baselines.readthedocs.io/en/master/modules/sac.html), [4](https://spinningup.openai.com/en/latest/algorithms/sac.html), [5](https://sites.google.com/view/sac-and-applications)     
    * on _A2C_,  see [1](https://towardsdatascience.com/understanding-actor-critic-methods-931b97b6df3f), [2](https://openai.com/blog/baselines-acktr-a2c/), [3](https://sergioskar.github.io/Actor_critics/), [4](https://stable-baselines.readthedocs.io/en/master/modules/a2c.html), [5](https://hackernoon.com/intuitive-rl-intro-to-advantage-actor-critic-a2c-4ff545978752)      
-
-### My articles on TowardsDataScience
-
-* [How does the Bellman equation work in Deep Reinforcement Learning?](https://towardsdatascience.com/how-the-bellman-equation-works-in-deep-reinforcement-learning-5301fe41b25a)  
-* [A pair of interrelated neural networks in Deep Q-Network](https://towardsdatascience.com/a-pair-of-interrelated-neural-networks-in-dqn-f0f58e09b3c4)    
-* [Three aspects of Deep Reinforcement Learning: noise, overestimation and exploration](https://towardsdatascience.com/three-aspects-of-deep-rl-noise-overestimation-and-exploration-122ffb4bb92b)      
-* [Entropy in Soft Actor-Critic (Part 1)](https://towardsdatascience.com/entropy-in-soft-actor-critic-part-1-92c2cd3a3515)   
-* [Entropy in Soft Actor-Critic (Part 2)](https://towardsdatascience.com/entropy-in-soft-actor-critic-part-2-59821bdd5671)
-
-### Videos I have developed within the above projects
-* [Four BipedalWalker Gaits](https://www.youtube.com/watch?v=PFixqZEYKh4)      
-* [BipedalWalker by Training Stages](https://www.youtube.com/watch?v=g01mIFbxVns)  
-* [CarRacing by Training Stages](https://www.youtube.com/watch?v=55buBR2pPdc)
-* [Lucky Hopper](https://www.youtube.com/watch?v=Ipctq89yLB0)
-* [Martian Ant](https://www.youtube.com/watch?v=s7aMZ1bbQgk)
-* [Lunar Armada](https://www.youtube.com/watch?v=6O6g9LCWvIs)
-* [Wooden Snake](https://www.youtube.com/watch?v=-T4wQirNDRo)
-* [Walking through the chess fields](https://www.youtube.com/watch?v=qUT3TznKWAk)
-* [Artificial snake on the way](https://www.youtube.com/watch?v=-jNfUrVniNg)
-* [Learned Long Snake](https://www.youtube.com/watch?v=Tt1rqWTR8ZA)
-* [Such a fast cheetah](https://www.youtube.com/watch?v=Q-FchLEZKRk)
-* [Four stages of Minitaur training](https://www.youtube.com/watch?v=uEAqyEwvi54)
-* [Chessboard chase with four Pybullet actors](https://www.youtube.com/watch?v=NXX4GTim_NM)
-* [You can sleep while I drive, Minitaur with Duck](https://www.youtube.com/watch?v=_7_Rke5R3JQ)
 
 
