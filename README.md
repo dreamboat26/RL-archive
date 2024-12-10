@@ -1,2 +1,2 @@
-# RL Implementations & Projects 
-Done from various RL courses on internet
+# per
+PER(Prioritized Experience Replay) implementation in PyTorch
