@@ -1,15 +1,11 @@
-# Reinforcement Learning Tutorials:
-
-*2020-10-07 added support for Tensorflow 2.3.1*
+# Reinforcement Learning Algos:
 
 PPO and PPO_CNN agents playing Pong-v0 game:<br>
 ![PPO agent](11_Pong-v0_PPO/gameplay.gif)
 ![PPO CNN agent](11_Pong-v0_PPO/gameplay_CNN.gif)
 
-*2020-10-10 added LunarLander-v2_PPO Continuous code for Tensorflow 2.3.1*:
 ![LunarLander-v2_PPO](https://github.com/pythonlessons/Reinforcement_Learning/blob/master/LunarLander-v2_PPO/gameplay.gif)
 
-*2020-10-23 added BipedalWalker-v3_PPO code for Tensorflow 2.3.1*:
 ![BipedalWalker-v3_PPO_PPO](https://github.com/pythonlessons/Reinforcement_Learning/blob/master/BipedalWalker-v3_PPO/gameplay.gif)
 
 1. [Deep Q Learning tutorial (DQN)](https://pylessons.com/CartPole-reinforcement-learning/)
