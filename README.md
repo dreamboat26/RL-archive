@@ -24,7 +24,7 @@ Documentation: https://stable-baselines3.readthedocs.io/
 
 ## RL Tutorial JNRR19
 
-We recommend looking at [rl-tutorial-jnrr19](https://github.com/araffin/rl-tutorial-jnrr19/tree/sb3) for a more complete tutorial.
+Recommend looking at [rl-tutorial-jnrr19](https://github.com/araffin/rl-tutorial-jnrr19/tree/sb3) for a more complete tutorial.
 
 1. Getting Started [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/sb3/1_getting_started.ipynb)
 2. Gym Wrappers, saving and loading models [Colab Notebook](https://colab.research.google.com/github/araffin/rl-tutorial-jnrr19/blob/sb3/2_gym_wrappers_saving_loading.ipynb)
