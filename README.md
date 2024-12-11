@@ -1,5 +1,5 @@
 # Grasping-objects-using-Time-Contrastive-Networks
- In this I have used Time-Contrastive Networks and soft-Actor critic Algorithm to make robot grasp different objects 
+Used Time-Contrastive Networks and soft-Actor critic Algorithm to make robot grasp different objects 
 
 TCN.py => Script used to Train Time-Contrastive Network
 
