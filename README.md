@@ -44,6 +44,3 @@ It combines ideas from DPG (Deterministic Policy Gradient) and DQN (Deep Q-Netwo
 11) The Eleventh Notebook contains an algorithm called Noisy Nets: Noisy Nets are way to improve exploration in the environment by adding noise to network parameters
 
 12) The Twelfth Notebook contains an algorithm called Rainbow: Rainbow takes the standard DQN algorithm and adds the 6 variants of DQN to it.
-
-Credits: A lot of theory part for initial few notebooks is taken from Book:Foundations of Deep Reinforcement Learning By Graesser Laura and  Keng Wah Loon.
-
