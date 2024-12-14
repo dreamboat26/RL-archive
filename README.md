@@ -1,2 +1,2 @@
-# RL Implementations & Projects 
-Done from various RL courses on internet
+# MountainCar
+MountainCar-v0 using Deep Q Learning
