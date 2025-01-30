@@ -1,2 +1,2 @@
-# RL Implementations & Projects 
-Done from various RL courses on internet
+# RL Workshop 2025
+Materials as part of RL Workshop at IISc 2025.
